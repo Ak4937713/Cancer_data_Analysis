@@ -4,9 +4,9 @@ This repository contains information related to Cancer data Analysis
 # 🧪 Cancer Dataset EDA & Dashboard Workflow
 
 ## 📥 1. Data Collection
-- [ ] Choose a dataset
-- [ ] Download from a trusted source
-- [ ] Understand dataset context
+- [x] Choose a dataset
+- [x] Download from a trusted source
+- [x] Understand dataset context
 
 ## 🧹 2. Data Cleaning
 - [ ] Check for missing values
