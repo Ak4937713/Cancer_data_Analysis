@@ -1,5 +1,18 @@
 # Cancer_data_Analysis
 This repository contains information related to Cancer data Analysis. 
+## 📌 Objective
+
+To understand key characteristics of tumor samples and identify which features are most associated with **malignant diagnoses**. This includes visual analysis, statistical summary, and insight generation.
+
+## 📊 Dataset Overview
+
+- 📁 Source: `sklearn.datasets.load_breast_cancer()` or [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
+- 🔢 Features: 30 numeric predictors (e.g., mean radius, texture, concavity)
+- 🎯 Target: `diagnosis` (Malignant = 0, Benign = 1)
+
+# Question
+- What patterns in the data are associated with malignant tumors?
+- Which features offer the best class separation?
 
 # 🧪 Cancer Dataset EDA & Dashboard Workflow
 
@@ -15,28 +28,23 @@ This repository contains information related to Cancer data Analysis.
 - [x] Check for duplicates
 
 ## 📊 3. Exploratory Data Analysis (EDA)
-- [ ] Summary stats
-- [ ] Class distribution
-- [ ] Visualizations
-- [ ] Correlation heatmap
+- [x] Summary stats
+- [x] Class distribution
+- [x] Correlation heatmap
+- [x] removal of columns with the help of heatmap
+- [x] Skeweness detection and removal of outliers
 
-## 🧠 4. Feature Engineering
-- [ ] Create new features
-- [ ] Normalize/scale
-- [ ] Encode categoricals
+## 📈 4. Visualization & Insights
+- [x] Key plots
+- [x] Trend highlights
+- [x] Pattern recognition
 
-## 📈 5. Visualization & Insights
-- [ ] Key plots
-- [ ] Trend highlights
-- [ ] Pattern recognition
-
-## 📊 6. Dashboard Creation
+## 📊 5. Dashboard Creation
 - [ ] Choose visualization tool
 - [ ] Import data
 - [ ] Add visuals & filters
-- [ ] Test interactivity
 
-## 📤 7. Sharing & Export
+## 📤 6. Sharing & Export
 - [ ] Save dashboard
 - [ ] Export visuals
 - [ ] Write summary insights
