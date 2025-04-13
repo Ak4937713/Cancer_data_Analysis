@@ -1,5 +1,5 @@
 # Cancer_data_Analysis
-This repository contains information related to Cancer data Analysis 
+This repository contains information related to Cancer data Analysis. 
 
 # 🧪 Cancer Dataset EDA & Dashboard Workflow
 
@@ -9,10 +9,10 @@ This repository contains information related to Cancer data Analysis
 - [x] Understand dataset context
 
 ## 🧹 2. Data Cleaning
-- [ ] Check for missing values
-- [ ] Handle nulls
-- [ ] Convert categorical variables
-- [ ] Check for duplicates
+- [x] Check for missing values
+- [x] Handle nulls
+- [x] Convert categorical variables
+- [x] Check for duplicates
 
 ## 📊 3. Exploratory Data Analysis (EDA)
 - [ ] Summary stats
