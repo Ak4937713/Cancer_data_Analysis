@@ -53,6 +53,6 @@ To understand key characteristics of tumor samples and identify which features a
 - Malignant tumors generally have higher values for radius, area, and concavity-related features.
 - Outliers in the dataset are mostly valid and stem from extreme cancer cases.
 - Log transformation reduces skewness and brings features closer to a normal distribution.
-- Features like `radius_mean`, `concavity_worst`, and `symmetry_worst` are strong indicators of malignancy.
-- Visualizations (histograms, scatterplots) show clear separation between benign and malignant classes.
+- Features like `radius_mean`, `concavity_mean`, and `symmetry_mean` are strong indicators of malignancy.
+- Visualizations (donut chart, stacked column chart) show clear separation between benign and malignant classes.
 
