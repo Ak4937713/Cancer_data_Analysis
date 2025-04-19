@@ -6,13 +6,12 @@ To understand key characteristics of tumor samples and identify which features a
 
 ## 📊 Dataset Overview
 
-- 📁 Source: `sklearn.datasets.load_breast_cancer()` or [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
+- 📁 Source: https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 - 🔢 Features: 30 numeric predictors (e.g., mean radius, texture, concavity)
 - 🎯 Target: `diagnosis` (Malignant = 0, Benign = 1)
 
 # Question
 - What patterns in the data are associated with malignant tumors?
-- Which features offer the best class separation?
 
 # 🧪 Cancer Dataset EDA & Dashboard Workflow
 
@@ -40,15 +39,15 @@ To understand key characteristics of tumor samples and identify which features a
 - [x] Pattern recognition
 
 ## 📊 5. Dashboard Creation
-- [ ] Choose visualization tool
-- [ ] Import data
-- [ ] Add visuals & filters
+- [x] Choose visualization tool
+- [x] Import data
+- [x] Add visuals & filters
 
 ## 📤 6. Sharing & Export
-- [ ] Save dashboard
-- [ ] Export visuals
-- [ ] Write summary insights
-- [ ] Upload to GitHub + share
+- [x] Save dashboard
+- [x] Export visuals
+- [x] Write summary insights
+- [x] Upload to GitHub + share
 
 ## 🔍 Key Insights from EDA
 - Malignant tumors generally have higher values for radius, area, and concavity-related features.
