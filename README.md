@@ -2,7 +2,7 @@
 This repository contains information related to Cancer data Analysis. 
 ## 📌 Objective
 
-To understand key characteristics of tumor samples and identify which features are most associated with **malignant diagnoses**. This includes visual analysis, statistical summary, and insight generation.
+To understand key characteristics of tumor samples and identify which features are most associated with **malignant Tumor diagnoses**. This includes visual analysis, statistical summary, and insight generation.
 
 ## 📊 Dataset Overview
 
