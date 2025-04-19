@@ -1,0 +1,49 @@
+Project Title: Cancer Diagnosis Dashboard and EDA(Benign vs Malignant)
+
+Domain: Healthcare / Medical Research / Biotechnology
+
+Objective:
+To visually analyze key tumor characteristics and identify distinguishing patterns between benign and malignant tumors using Power BI.
+
+Tools & Technologies:
+- Microsoft Power BI
+- DAX (Data Analysis Expressions)
+- Python 
+
+Dataset Source:https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
+
+Data Type: Structured tabular data (numeric)
+
+Dataset Size:
+- Rows: 569
+- Columns: 32
+
+Target Variable: Diagnosis (B = Benign, M = Malignant)
+
+Key Features Used:
+- Radius_mean
+- Texture_mean
+- Area_mean
+- Smoothness_mean
+- Concavity_mean
+- Symmetry_mean
+(and other related feature metrics)
+
+Dashboard Features:
+- Summary Cards (Total Records, Benign cases, Malignant cases)
+- Bar Charts comparing feature averages across diagnosis types
+- Clean, research-oriented layout
+- Diagnosis-based feature information of important parameter
+
+Limitations:
+- No time, age, or demographic variables present.
+- Static analysis without predictive modeling (ML not included)
+
+Author:
+Abhishek
+
+Project Status:
+Completed
+
+Last Updated:
+19-04-25
